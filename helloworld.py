@@ -1,3 +1,5 @@
+# will cause an error
+
 import sys
 
 def main():
